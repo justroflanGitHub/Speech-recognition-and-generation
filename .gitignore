@@ -1,0 +1,17 @@
+# Large files
+*.wav
+data/
+lm/4-gram.arpa.gz
+kenlm/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+*.swp
